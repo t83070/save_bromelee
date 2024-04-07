@@ -1,1 +1,4 @@
-
+--> A l'appui d'une touche:
+  -> envoi de la bombe a une certaine distance
+    -> animation de déplacement
+    -> animation d'explosion
