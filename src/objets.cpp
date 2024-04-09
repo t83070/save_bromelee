@@ -79,7 +79,6 @@ void objets::animation(int i){
     else objet.setTexture(textures[i][animState]);
     if (animState == 0 /*A remplacer par la valeur max de l'animation*/){
         animState = 0;
-        explose = true;
     }
 }
 
